@@ -8,3 +8,5 @@
 - Context switching
 - Thead scheduling
 - Thread vs Proccess
+
+See the [Transcript](https://github.com/lengcheng111/java-concurrentcy/blob/master/Transcript.txt) to understand more slides
